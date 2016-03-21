@@ -1,0 +1,28 @@
+name: Carterspace
+favicon: null
+layout_spectrum: 0.7431512132752687
+typography_spectrum: 0.11553021823056042
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.10743990610353649
+  lightness: 0.12332128384150565
+  saturation: 0.24169844132848084
+  rhythmicContrast: 0.5957186541054398
+purpose: []
