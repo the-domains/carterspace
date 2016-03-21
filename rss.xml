@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Carterspace]]></title>
+        <description><![CDATA[Carterspace]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 14:47:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Test post for the carterspace grid web site</p>]]></description>
+            <link>undefined8240f6f0-3402-4844-a676-69c1403c7c56/index.html</link>
+            <guid isPermaLink="false">8240f6f0-3402-4844-a676-69c1403c7c56</guid>
+            <pubDate>Mon, 21 Mar 2016 14:47:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
