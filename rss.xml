@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Carterspace]]></title>
         <description><![CDATA[Carterspace]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/carterspace/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 14:47:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 00:46:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/carterspace/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[Test Post]]></title>
             <description><![CDATA[<p>Test post for the carterspace grid web site</p>]]></description>
-            <link>undefined8240f6f0-3402-4844-a676-69c1403c7c56/index.html</link>
+            <link>https://thegrid.ai/carterspace/8240f6f0-3402-4844-a676-69c1403c7c56/index.html</link>
             <guid isPermaLink="false">8240f6f0-3402-4844-a676-69c1403c7c56</guid>
-            <pubDate>Mon, 21 Mar 2016 14:47:04 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2016 00:46:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
